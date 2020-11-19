@@ -1,0 +1,10 @@
+{
+    "nama": "Arjun",
+    "umur": 20,
+    "nrp": "183040036",
+    "lulus": false,
+    "hobby": [
+        "coding",
+        "gaming"
+    ]
+}
